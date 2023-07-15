@@ -1,0 +1,10 @@
+#getButton {
+  padding: 20px;
+  color: black;
+}
+
+div.buttons {
+  margin: 20px;
+  padding: 0 25px 0 25px;
+  background-color: red;
+}
